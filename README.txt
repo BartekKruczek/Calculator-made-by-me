@@ -1,0 +1,1 @@
+Only PyQt lib. are required, download a file and run it, that's all.
